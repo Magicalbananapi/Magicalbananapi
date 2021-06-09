@@ -1,1 +1,1 @@
-### ⭐ I'm currently working on ![https://github.com/Magicalbananapi/gravity]
+### ⭐ I'm currently working on [GravityLib](https://github.com/Magicalbananapi/gravity)
